@@ -1,0 +1,22 @@
+{
+  "name": "demo_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-load": "^1.1.16",
+    "mysql": "^2.18.1",
+    "uuid": "^9.0.0"
+  },
+  "description": ""
+}
